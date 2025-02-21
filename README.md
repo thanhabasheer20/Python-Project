@@ -17,5 +17,5 @@ iv) Discover which team and position have the highest salary expenditure.
 
 v) Investigate if there's any correlation between age and salary, and represent it visually.
 
-Graphical Representation:
+3.Graphical Representation:
 For each of the five analysis tasks, created appropriate visualizations to present the findings effectively.
